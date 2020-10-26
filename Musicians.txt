@@ -1,0 +1,8 @@
+A:Lead singer:2:10:3.
+B:Backing singer:5:2:2.
+C:Guitarist:3:6:2.
+D:Singing guitarist:2:8:3.
+E:Drummer:1:10:4.
+F:Keyboardist:1:10:2.
+G:Cymbalist:1:1:5.
+H:Trumpeters:4:5:5.
